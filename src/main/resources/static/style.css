@@ -1,0 +1,118 @@
+/* Custom CSS */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f3e6ff; /* Light purple background for the body */
+}
+
+.navbar {
+    background-color: #6a0dad !important; /* Dark Purple */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffffff !important; /* White color for contrast */
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff !important; /* White color for contrast */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #dda0dd !important; /* Light Purple */
+}
+
+footer {
+    background: #4b0082; /* Indigo */
+    padding: 40px 0;
+}
+
+footer .text-uppercase {
+    font-weight: bold;
+}
+
+footer .text-dark:hover {
+    color: #dda0dd !important; /* Light Purple */
+    text-decoration: none;
+}
+
+footer .bg-dark {
+    background-color: #4b0082 !important; /* Indigo */
+}
+
+footer .text-white {
+    color: #ffffff !important;
+}
+
+/* Logo Area */
+.logo {width:200px; height:200px
+    /* Add styles for logo if needed */
+}
+
+.footer-area {
+    background: #6a0dad; /* Dark Purple */
+}
+
+.footer-area h5 {
+    color: white !important;
+}
+
+.footer-area p {
+    color: white !important;
+}
+
+.footer-area a {
+    color: #dda0dd !important; /* Light Purple */
+}
+
+.theme-button {
+    background-color: #6a0dad; /* Dark Purple */
+    border: 0px;
+    border-radius: 0px;
+    padding: 10px 50px;
+    color: #ffffff !important; /* White text */
+}
+
+.theme-button:hover {
+    background-color: #dda0dd; /* Light Purple */
+    padding: 10px 50px;
+}
+
+.common-theme-button {
+    background-color: #6a0dad; /* Dark Purple */
+    border: 0px;
+    border-radius: 0px;
+    color: #ffffff !important; /* White text */
+}
+
+.common-theme-button:hover {
+    background-color: #dda0dd; /* Light Purple */
+}
+
+.hero-left-text {
+    margin-top: 100px;
+    color: #6a0dad; /* Dark Purple text */
+}
+
+.card-img-top {
+    height: 250px;
+    padding: 20px;
+}
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #6a0dad; /* Dark Purple border */
+}
+
+.cart-imge {
+    width: 100px;
+    height: 100px;
+}
+
+.text-purple {
+    color: #6a0dad; /* Dark Purple text */
+}
+
+.bg-purple {
+    background-color: #6a0dad !important; /* Dark Purple background */
+}
